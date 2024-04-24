@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/interior-design/static/css/main.33e10329.css",
+    "main.js": "/interior-design/static/js/main.f37e29c3.js",
+    "static/media/welcome-interior-bg.png": "/interior-design/static/media/welcome-interior-bg.3e46bc10028f1fa86afb.png",
+    "static/media/how-it-works-44.jpg": "/interior-design/static/media/how-it-works-44.f4cd8c607f7fff059f66.jpg",
+    "static/media/stylequiz.jpg": "/interior-design/static/media/stylequiz.6a0a73a013ff46fd8591.jpg",
+    "static/media/how-it-works-33.jpg": "/interior-design/static/media/how-it-works-33.a270098b4a41f849a30d.jpg",
+    "static/media/how-it-works-22.jpg": "/interior-design/static/media/how-it-works-22.59a3a1be9bfe086e9fb8.jpg",
+    "static/media/how-it-works-11.jpg": "/interior-design/static/media/how-it-works-11.657b1b629401efb6d01e.jpg",
+    "static/media/DesignEditRepeat.jpg": "/interior-design/static/media/DesignEditRepeat.02a95961319d0198d36f.jpg",
+    "index.html": "/interior-design/index.html",
+    "main.33e10329.css.map": "/interior-design/static/css/main.33e10329.css.map",
+    "main.f37e29c3.js.map": "/interior-design/static/js/main.f37e29c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33e10329.css",
+    "static/js/main.f37e29c3.js"
+  ]
+}
